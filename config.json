@@ -1,0 +1,19 @@
+{
+  "onlineStatus": "online",
+  "level": 100,
+  "skillLevel": "pro",
+  "skin": "CID_028_Athena_Commando_F",
+  "emote": "EID_Floss",
+  "backpack": "BID_004_BlackKnight",
+  "pickaxe": "pickaxe_lockjaw",
+  "inUseStatus": "I'm in use! Don't insite me!",
+  "notInUseStatus": "Not in use! Invite me!",
+  "autoReady": true,
+  "autoJoinFriends": true,
+  "autoAcceptInvites": true,
+  "autoInviteFriends": true,
+  "whisperEnabled": true,
+  "autoWhisperResponse": "I'm here to dominate!",
+  "friendRequestsEnabled": true,
+  "autoAcceptFriendRequests": true
+}
